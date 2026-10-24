@@ -14,6 +14,7 @@ INHALT
 03_Baum-Symbol                Baum allein, ohne Schrift.
 04_Profilbild-Dunkel          Rundes Profilbild, dunkler Kreis.
 05_Profilbild-Hell            Rundes Profilbild, heller Kreis.
+06_Marketing-Vorlagen         Gestaltete Vorlagen mit den Logos (siehe unten).
 
 Jeder Logo-Ordner enthält drei Unterordner:
     SVG   Vektordatei für Web, Software und Weiterbearbeitung
@@ -43,6 +44,25 @@ Beispiele:
     GermanLanguageInstitute_Hauptlogo_Farbe.svg
     GermanLanguageInstitute_Zweitzeichen-Waagerecht_Negativ_3000px.png
     GermanLanguageInstitute_Baum-Symbol_Schwarz.pdf
+
+
+MARKETING-VORLAGEN (06_Marketing-Vorlagen)
+----------------------------------------------------------------------
+PDF/       Druckfertig aufgebaute Seiten im Originalformat:
+           Briefkopf A4, Visitenkarte 85 x 55 mm (Vorder- und Rückseite),
+           Karteikarten A6 quer, Social-Post 1080 px, Zertifikat A4 quer,
+           Umschlag DL, Flyer A5 (zweiseitig), Plakat A3,
+           E-Mail-Signatur, Website-Kopf.
+Vorschau/  Bilder der einzelnen Seiten zur schnellen Ansicht.
+Mockup-Uebersicht-1/-2.png   Alle Vorlagen im Zusammenspiel.
+
+Wichtig: Namen, Adressen, Telefon, E-Mail, Bankdaten, Kursdaten und
+alle Beispieltexte sind Platzhalter in eckigen Klammern bzw. Beispiele.
+Die PDF-Dateien sind Layouts zum Ansehen und Weitergeben an eine
+Druckerei oder Designerin. Sie lassen sich nicht bequem bearbeiten.
+Für eigenen Text bitte eine bearbeitbare Fassung (z. B. Word oder
+Canva) anfordern. Die arabischen und englischen Beispielwörter auf den
+Karteikarten bitte vor dem Druck prüfen lassen.
 
 
 WELCHES LOGO WOFÜR?
