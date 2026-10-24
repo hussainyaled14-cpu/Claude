@@ -1,0 +1,94 @@
+GERMAN LANGUAGE INSTITUTE – LOGO-PAKET
+Stand: Oktober 2026
+======================================================================
+
+INHALT
+----------------------------------------------------------------------
+00_GermanLanguageInstitute_Logouebersicht.pdf / .png
+    Alle Logos, Farben und Schriften auf einen Blick.
+00_GermanLanguageInstitute_Logo-Richtlinien.pdf
+    Schutzraum, Mindestgrößen, Farbwerte, Schriften, Anwendung.
+
+01_Hauptlogo                  Block-Logo. Das führende Logo.
+02_Zweitzeichen-Waagerecht    Baum links, Name rechts.
+03_Baum-Symbol                Baum allein, ohne Schrift.
+04_Profilbild-Dunkel          Rundes Profilbild, dunkler Kreis.
+05_Profilbild-Hell            Rundes Profilbild, heller Kreis.
+
+Jeder Logo-Ordner enthält drei Unterordner:
+    SVG   Vektordatei für Web, Software und Weiterbearbeitung
+    PDF   Vektordatei für Druckereien und Layoutprogramme
+    PNG   Pixeldatei, transparent (3000 px und 800 px Kantenlänge)
+
+
+VARIANTEN (Dateiname endet auf ...)
+----------------------------------------------------------------------
+_Farbe      Standardfassung in Farbe. Für weißen oder sehr hellen Grund.
+_Negativ    Für dunklen Grund (z. B. Anthrazit, Schwarz, dunkle Fotos).
+_Schwarz    Einfarbig Schwarz. Für Stempel, Fax, Zeitung, Gravur.
+_Weiss      Einfarbig Weiß. Für dunklen oder farbigen Grund.
+
+_weisser-Hintergrund_3000px.png
+            PNG mit weißem Hintergrund (gibt es bei Farbe und Schwarz),
+            z. B. für Word oder Programme ohne Transparenz.
+
+Die Profilbilder gibt es nur in Farbe (runde Fläche mit eigenem Grund).
+
+
+BENENNUNG
+----------------------------------------------------------------------
+GermanLanguageInstitute_<Logo>_<Variante>[_<Größe>].<Format>
+
+Beispiele:
+    GermanLanguageInstitute_Hauptlogo_Farbe.svg
+    GermanLanguageInstitute_Zweitzeichen-Waagerecht_Negativ_3000px.png
+    GermanLanguageInstitute_Baum-Symbol_Schwarz.pdf
+
+
+WELCHES LOGO WOFÜR?
+----------------------------------------------------------------------
+Hauptlogo        Briefe, Verträge, Rechnungen, Zertifikate, Schilder,
+                 Visitenkarten, Website-Kopf.
+Zweitzeichen     Social Media, Arbeitsblätter, Plakate, Videos, Flyer.
+Baum-Symbol      Kleine Flächen, Stempel, Aufkleber, Icons.
+Profilbild       Instagram, Facebook, WhatsApp, YouTube.
+
+Regel: Immer führt ein Logo. Hauptlogo und Zweitzeichen nicht als
+gleich große Logos nebeneinander setzen.
+
+
+FARBEN
+----------------------------------------------------------------------
+Anthrazit   #2B2B30   RGB 43 / 43 / 48      CMYK ca. 10 / 10 / 0 / 81
+Rot         #D62A1F   RGB 214 / 42 / 31     CMYK ca. 0 / 80 / 86 / 16
+Gold        #F5B800   RGB 245 / 184 / 0     CMYK ca. 0 / 25 / 100 / 4
+Creme       #F4EEE2   RGB 244 / 238 / 226   CMYK ca. 0 / 2 / 7 / 4
+
+CMYK-Werte sind rechnerische Näherungen. Für den Druck bitte mit der
+Druckerei abstimmen und einen Farbabzug prüfen.
+
+
+SCHRIFTEN
+----------------------------------------------------------------------
+Archivo   Logo und Überschriften
+Jost      Fließtext
+Cairo     Arabische Schrift
+Alle drei sind frei nutzbar (SIL Open Font License, über Google Fonts).
+In den SVG- und PDF-Dateien ist die Schrift bereits in Pfade
+umgewandelt. Die Schriften müssen für die Logos nicht installiert sein.
+
+
+WICHTIGE HINWEISE
+----------------------------------------------------------------------
+* Mindestgrößen und Schutzraum stehen in den Logo-Richtlinien.
+* Die SVG-Dateien wurden aus den PDF-Dateien erzeugt. Sie öffnen sich
+  in Inkscape, Illustrator und Affinity. Bei Bedarf dort noch einmal
+  als sauberes SVG speichern.
+* Der Baum ist eine digital gezeichnete Illustration. Für große
+  Anwendungen (Fassade, Banner, Fahrzeug) empfiehlt sich, ihn von
+  einer Designerin oder einem Designer sauber nachzeichnen zu lassen.
+  Die PDF-Dateien dienen dafür als Vorlage.
+* Die arabische Zeile „مركز اللغة الألمانية“ („Zentrum für die deutsche
+  Sprache“) bitte von einer Person prüfen lassen, die Arabisch liest.
+* Die Logos sind nicht als Marke geschützt oder auf Markenrechte
+  geprüft. Vor der Eintragung bitte eine Recherche durchführen.
